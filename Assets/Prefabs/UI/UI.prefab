@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1583466118779170642}
   - component: {fileID: 4389340511525527925}
   m_Layer: 0
-  m_Name: UR DED LOL
+  m_Name: UR DEAD!
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: UR DED LOL SKILL ISSUE
+  m_text: Ur dead!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
   m_sharedMaterial: {fileID: 6660594578949021939, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
@@ -397,7 +397,7 @@ GameObject:
   - component: {fileID: 9022136633548229024}
   - component: {fileID: 9134753770553148100}
   m_Layer: 0
-  m_Name: I got dis
+  m_Name: I got this
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -450,9 +450,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Stfu I got dis
-
-'
+  m_text: I got this wait
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
   m_sharedMaterial: {fileID: 6660594578949021939, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
@@ -794,7 +792,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Nah fak dis shit '
+  m_text: nah i quit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
   m_sharedMaterial: {fileID: 6660594578949021939, guid: e633f1e139e01bb459331bb926c7d026, type: 2}
